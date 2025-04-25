@@ -175,6 +175,7 @@ span{
   border-color: rgb(150, 150, 150);
   width: 300px;
  padding: 20px;
+<<<<<<< HEAD
 }
 .contain{
 border-width: 2px;
@@ -242,4 +243,6 @@ vertical-align: top;
   line-height: 2px;
   font-size: 16px;
   color: rgb(80, 76, 76);
+=======
+>>>>>>> d3e7877ec93320f33a421939d3ffc702e5e54d1f
 }
