@@ -175,7 +175,7 @@ span{
   border-color: rgb(150, 150, 150);
   width: 300px;
  padding: 20px;
-<<<<<<< HEAD
+ 
 }
 .contain{
 border-width: 2px;
@@ -289,13 +289,15 @@ vertical-align: top;
  
 }
 .f{
-  margin-right: 200px;
+  
   background-color: rgb(106, 156, 255);
 color: white;
 border-radius: 10px;
 border-width: 30px;
 padding: 5px;
 width: 20px;
+margin-left: 20px;
+margin-right: 20px;
 }
 .nav{
   display: flex;
