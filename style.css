@@ -244,3 +244,10 @@ vertical-align: top;
   font-size: 16px;
   color: rgb(80, 76, 76);
 }
+.grid{
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-columns: 100px 100px 100px;
+  row-gap: 20px;
+  column-gap: 20px;
+}
