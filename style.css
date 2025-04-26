@@ -341,8 +341,52 @@ align-items: center;
  vertical-align: middle;
 
 }
+.nf{
+  display: flex;
+
+}
+.item1{
+  background-color: black;
+  color: white;
+}
+.nf1{
+ background-color: lightpink;
+ width: 200px;
+ height:50px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.nf2{
+ background-color: lightblue;
+ width: 300px;
+}
 
 
+.nf3{
+  background-color: lightpink;
+  width: 100px;
+  height: 50px;
+}
+.nf4{
+  background-color: lightblue;
+  width: 300px;
+  height: 50px;
+  display: flex;
 
 
+}
+.row1{
 
+}
+.pp{
+display: flex;
+justify-content: space-between;
+
+}
+.p1{
+  background-color: black;
+  color: white;
+  display: flex;
+
+}
