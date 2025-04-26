@@ -282,7 +282,7 @@ vertical-align: top;
 }
 .design{
   display: flex;
-  justify-content: space-evenly;
+  align-items: center;
 
 }
 .home{
@@ -296,8 +296,10 @@ border-radius: 10px;
 border-width: 30px;
 padding: 5px;
 width: 20px;
-margin-left: 20px;
+margin-left: 30px;
 margin-right: 20px;
+display: flex;
+align-items: center;
 }
 .nav{
   display: flex;
